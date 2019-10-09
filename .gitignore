@@ -1,0 +1,11 @@
+*.zip
+*.html
+
+*.shp
+*.shx
+*.prj
+*.dbf
+*.cpg
+*.xml
+lad2011uk.csv
+oa-lad-lookup.csv
