@@ -1,5 +1,7 @@
 # United Kingdom Local Authority District name/code changes
 
+[![DOI](https://zenodo.org/badge/213865065.svg)](https://zenodo.org/badge/latestdoi/213865065)
+
 Tracking changes to Local Authority District administrative boundaries, names and codes, from
 2011 to 2018.
 
