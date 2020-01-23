@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/213865065.svg)](https://zenodo.org/badge/latestdoi/213865065)
 
+[>>> Take me to the data](https://github.com/tomalrussell/uklad-changes/blob/master/lad_nmcd_changes.csv)
+
 Tracking changes to Local Authority District administrative boundaries, names and codes, from
 2011 to 2018.
 
